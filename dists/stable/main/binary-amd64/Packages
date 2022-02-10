@@ -1,0 +1,26 @@
+Package: goodbye-world
+Version: 0.0.1
+Architecture: amd64
+Maintainer: example <example@example.com>
+Depends: libc6
+Filename: pool/main/goodbye_0.0.1-1_amd64.deb
+Size: 2836
+MD5sum: 27bbc6fb3c960083d98c650c0e3ac543
+SHA1: 61566e8080e7398fc4127fb268c932c540aa96e9
+SHA256: 9efc104b1ac0ca7afb22816ce48f111943198eac6f4ef54c7cdf0742d2ffb8d8
+Homepage: http://example.com
+Description: A program that prints goodbye world!!!
+
+Package: hello-world
+Version: 0.0.1
+Architecture: amd64
+Maintainer: example <example@example.com>
+Depends: libc6
+Filename: pool/main/hello_0.0.1-1_amd64.deb
+Size: 2832
+MD5sum: 39bc40bb5bd5a5b903bfb34d0af918d3
+SHA1: 396e1a6dc12e0fce1813eb4a3ea7c7d627e08205
+SHA256: 9d990ecb5a654319a25cd4a65aadac8971bb53b46642e760dbf6ffa6be0c64bb
+Homepage: http://example.com
+Description: A program that prints hello
+
